@@ -49,27 +49,6 @@ This dashboard enables stakeholders to explore Netflix’s content landscape, id
 
 
 
-
-
-<img width="1341" height="750" alt="HOME PGE" src="https://github.com/user-attachments/assets/6085c859-ab2e-4267-bbd9-fc3156260ec3" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <img width="1331" height="757" alt="NETFLIX DASHBOARD" src="https://github.com/user-attachments/assets/7b19895b-3c00-42d3-86ba-20e3a3de63e7" />
 
 
