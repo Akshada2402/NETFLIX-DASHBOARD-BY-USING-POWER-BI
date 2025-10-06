@@ -1,2 +1,37 @@
-# NETFLIX-DASHBOARD-BY-USING-POWER-BI
-Netflix Content Dashboard - Power BI Project Built an interactive Power BI dashboard to analyze Netflix titles by release year, runtime, votes, and age certification. Visualized top-rated content, type-wise engagement, and historical trends. Applied Power Query for data cleaning and DAX for dynamic insights.
+📊 Power BI Project: Netflix Content Analysis Dashboard
+
+Objective:  
+Designed an interactive Power BI dashboard to analyze and visualize key metrics from a Netflix dataset, focusing on content trends, viewer engagement, and platform offerings.
+
+Key Features & Insights:
+
+Content Overview: 
+  - Total runtime analyzed: 206K minutes
+  - Total titles: 1,670 (movies and shows)  
+  - IMDb coverage: 149.6K entries
+
+Viewer Engagement:
+  - Votes distribution visualized via pie charts  
+  - Highlighted top 5 most-voted titles including *Inception*, *Forrest Gump*, and *Breaking Bad*
+
+Content Type Breakdown:
+  - Comparative analysis of movies vs. shows based on vote count and volume  
+  - Type-wise vote distribution: 63.5% movies, 36.5% shows
+
+Release Year Trends:
+  - Bar chart showing content release patterns from **1925 to 2020**  
+  - Line graph tracking runtime evolution across decades
+
+Age Certification Analysis:
+  - Segmented chart displaying age ratings (PG, PG-13, TV-14, TV-MA, etc.)  
+  - Identified gaps in certification data (e.g., no R-rated or TV-Y content)
+
+Tools & Techniques Used:
+
+- Power BI (DAX, slicers, filters, custom visuals)  
+- Data cleaning and transformation in Power Query  
+- Analytical storytelling through dynamic visuals and KPI cards
+
+Outcome: 
+This dashboard enables stakeholders to explore Netflix’s content landscape, identify viewer preferences, and assess historical trends in runtime and content type. It demonstrates proficiency in data modeling, visualization, and storytelling—bridging technical analysis with business insights.
+
