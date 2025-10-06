@@ -3,6 +3,11 @@
 Objective:  
 Designed an interactive Power BI dashboard to analyze and visualize key metrics from a Netflix dataset, focusing on content trends, viewer engagement, and platform offerings.
 
+
+RAW DATA :-
+Netflix TV Shows and Movies (1).xlsx
+
+
 Key Features & Insights:
 
 Content Overview: 
