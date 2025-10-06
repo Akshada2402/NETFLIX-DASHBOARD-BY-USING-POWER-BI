@@ -5,10 +5,15 @@ Designed an interactive Power BI dashboard to analyze and visualize key metrics 
 
 
 RAW DATA :-
-Netflix TV Shows and Movies (1).xlsx
+[Netflix TV Shows and Movies (1).xlsx](https://github.com/Akshada2402/NETFLIX-DASHBOARD-BY-USING-POWER-BI/blob/main/Netflix%20TV%20Shows%20and%20Movies%20(1).xlsx)
 
 
-Key Features & Insights:
+FINAL DASHBOARD :-
+https://github.com/Akshada2402/NETFLIX-DASHBOARD-BY-USING-POWER-BI/blob/main/Netflix%20TV%20Shows%20and%20Movies%20(1).xlsx
+
+
+
+**Key Features & Insights:**
 
 Content Overview: 
   - Total runtime analyzed: 206K minutes
