@@ -61,6 +61,12 @@ This dashboard enables stakeholders to explore Netflix’s content landscape, id
 
 
 
+
+
+
+
+
+
 <img width="1331" height="757" alt="NETFLIX DASHBOARD" src="https://github.com/user-attachments/assets/7b19895b-3c00-42d3-86ba-20e3a3de63e7" />
 
 
